@@ -9,7 +9,7 @@ By Justin Cheng
 ===================================================================================
 
 The scene features a low-poly diorama of a fire dancing fantasy character in the 
-middle of a field of Butterflies. The following graphical features are implemented:
+middle of a field of butterflies. The following graphical features are implemented:
 
 * Instancing (Repeating an object 10,000x) 
 * Post-Processing Bloom
